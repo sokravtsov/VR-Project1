@@ -13,5 +13,7 @@ In the most recent portion of the Nanodegree, you learned how to get a Unity app
 # Skills
 
 How to navigate around Unity
+
 How to customize a preexisting experience in Unity
+
 How to get a project from Unity to iOS
