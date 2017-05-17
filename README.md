@@ -15,3 +15,5 @@ In the most recent portion of the Nanodegree, you learned how to get a Unity app
 How to navigate around Unity
 How to customize a preexisting experience in Unity
 How to get a project from Unity to Android or iOS
+
+![](https://raw.githubusercontent.com/sokravtsov/VR-Project1/master/Screenshot/sh1.PNG)
